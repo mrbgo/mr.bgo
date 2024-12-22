@@ -138,7 +138,6 @@ a:focus {
   font-size: 24px;
   font-weight: 700;
   color: #ffffff;
-  text-transform: uppercase;
 }
 
 .custom_nav-container {
@@ -736,7 +735,6 @@ a:focus {
 }
 
 .info_section .info_logo h3 {
-  text-transform: uppercase;
   font-weight: bold;
 }
 
